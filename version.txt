@@ -1,2 +1,2 @@
 version=1.0
-message=This is the latest version of CyberVault.
+message=This is the latest version of Pass Protector.
